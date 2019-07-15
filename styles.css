@@ -1,0 +1,93 @@
+h1,
+h2,
+h3,
+h4 {
+
+
+    font-family: 'Roboto', monospace;
+    font-weight: bold;
+    margin: 0.8em auto;
+}
+
+li,
+p,
+a,
+span {
+    margin: 0.8em 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.6em;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+h3 {
+    font-size: 1.1em;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1em;
+}
+
+p {
+    font-size: 0.8em;
+}
+
+a {
+    color: #008;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #888;
+}
+
+li {
+    padding: 0 0.4em;
+    font-size: 0.8em;
+    text-align: left;
+    list-style-type: none;
+    margin: 1.8vh auto;
+}
+
+body {
+    background: #ffffff;
+}
+
+main {
+    margin: 2vh auto;
+    border: 1px solid #152;
+    border-radius: 4px;
+    padding: 4px;
+    box-shadow: 1px 4px 10px #aaa;
+}
+
+section {
+    margin: 2.4vh auto;
+}
+
+header {
+    margin: 1em auto;
+    border: 1px solid #152;
+    border-radius: 4px;
+    padding: 0.2em 0.8em;
+    box-shadow: 1px 4px 10px #aaa;
+}
+
+footer p {
+    margin: 0.8em auto;
+}
+
+footer {
+    border: 1px solid #152;
+    margin: 2vh auto;
+    border-radius: 4px;
+    padding: 1vh 0;
+    box-shadow: 1px 4px 10px #aaa;
+}
